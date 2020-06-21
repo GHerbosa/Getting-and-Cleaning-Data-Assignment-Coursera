@@ -11,10 +11,16 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 Code Overview:
 From raw data, task is to convert raw data to a tidy data which can be processed or analyze further much easily. Code is divided to
 6 subsections, 5 of which is based on objectives given by the assignment and the other 1 (first) is a prerequisite before working on the data itself.
+
 Prerequisite: it involves downloading the raw data directly from its source. Internet is a must in this activity. Data will be saved as a zipfile and will be extracted to a new folder that will be the main working folder. text files are also saved in variables that will be used later.
+
 Objective 1: From different text files, the purpose of this code was to compile and summarize similar data from different text files.
+
 Objective 2: Extracts the mean and standard deviation values from the compiled data.
-Objeective 3: Sets a convenient names for the values in activity data to easily understand.
+
+Objective 3: Sets a convenient names for the values in activity data to easily understand.
+
 Objective 4: Continuation of setting names, it involves transforming shortcut description to a descriptive and understandable one.
+
 Objective 5: Create the tidy data in a separate text file.
 
